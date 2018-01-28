@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jsp/items/edititem.jsp=UTF-8
+encoding//config/validateMessage.properties=UTF-8
+encoding//src/com/hjp/ssm/controller/validation/package-info.java=GBK
+encoding//src/com/hjp/ssm/po/Items.java=UTF-8
+encoding//src/com/hjp/ssm/po/ItemsQueryVo.java=UTF-8
+encoding/<project>=UTF-8
